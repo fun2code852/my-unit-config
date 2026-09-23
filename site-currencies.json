@@ -1,12 +1,33 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-09-23.1",
+  "revision": "2026-09-23.2",
   "sites": {
+    "1688.com": {
+      "yen": "CNY"
+    },
+    "28hse.com": {
+      "dollar": "HKD"
+    },
+    "bestbuy.com": {
+      "dollar": "USD"
+    },
+    "jd.com": {
+      "yen": "CNY"
+    },
+    "jp.mercari.com": {
+      "yen": "JPY"
+    },
     "taobao.com": {
       "yen": "CNY"
     },
     "tabelog.com": {
       "yen": "JPY"
+    },
+    "tmall.com": {
+      "yen": "CNY"
+    },
+    "walmart.com": {
+      "dollar": "USD"
     }
   }
 }
