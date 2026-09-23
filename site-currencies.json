@@ -1,12 +1,27 @@
 {
   "schemaVersion": 1,
-  "revision": "2026-09-23.2",
+  "revision": "2026-09-23.3",
   "sites": {
     "1688.com": {
       "yen": "CNY"
     },
     "28hse.com": {
       "dollar": "HKD"
+    },
+    "amazon.ca": {
+      "dollar": "CAD"
+    },
+    "amazon.co.jp": {
+      "yen": "JPY"
+    },
+    "amazon.com": {
+      "dollar": "USD"
+    },
+    "amazon.com.au": {
+      "dollar": "AUD"
+    },
+    "amazon.sg": {
+      "dollar": "SGD"
     },
     "bestbuy.com": {
       "dollar": "USD"
